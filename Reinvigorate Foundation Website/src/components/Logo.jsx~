@@ -1,0 +1,9 @@
+function Logo({className}) {
+    return (
+	<a href="/" className={className}>
+	    <img className="h-full" src="/images/logo/logo.svg" alt="Reinvigorate Foundation" />
+	</a>
+    )
+}
+
+export default Logo;

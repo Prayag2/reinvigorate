@@ -1,0 +1,21 @@
+import Wrapper from "/src/components/Wrapper"
+import Title from "/src/components/Title"
+import Carousel from "/src/components/Carousel"
+
+function Gallery() {
+    const images = [
+	"/images/initiatives/praise-the-strays.jpg",
+	"/images/initiatives/lets-talk-periods.jpg",
+	"/images/initiatives/boiling-alive.jpg",
+	"/images/initiatives/express-to-liberate.jpg",
+	"/images/initiatives/vitalising-lives.jpg",
+    ]
+    return (
+	<Wrapper className="text-center py-10">
+	    <Title text="Gallery" fancy/>
+	    <Carousel images={images}/>
+	</Wrapper>
+    )
+}
+
+export default Gallery;

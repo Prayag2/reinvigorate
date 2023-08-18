@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Praise The Strays",
+        "route": "praise-the-strays",
+        "shortDescription": "Working on animal rescue, spray neutering them, so they live healthy and longer, helping to get adopted in caring homes and shelters.",
+        "thumbnail": "praise-the-strays.jpg",
+        "imageCount": "10",
+        "quote": {
+            "quote": "The greatness of a nation can be judged by the way its animals are treated.",
+            "author": "Mahatma Gandhi"
+        }
+    },
+    {
+        "name": "Boiling Alive",
+        "route": "boiling-alive",
+        "shortDescription": "Working on the management of climatic changes and encouraging people to reduce and reverse carbon footprints",
+	"description": "Our initiative boiling alive strives to work toward pressing environmental issues. We all know that the growing climate change is drastically going to affect our future generations unless we do something about it. Something which is consistent and makes a greater collaborative and thought-provoking impact on the environmental issues",
+        "thumbnail": "boiling-alive.jpg",
+        "imageCount": "28",
+        "quote": {
+            "quote": "We are the first generation to feel the effect of climate change and the last generation who can do something about it.",
+            "author": "Barack Obama, Former President of the USA"
+        },
+        "timeline": [
+            {
+                "name": "E-Waste Collection Drive for Team Mark",
+                "date": "01 June 2017",
+                "desc": "The 36 Kgs of e-waste collected by my team was given to e-waste cycle hub."
+            },
+            {
+                "name": "Go Green Tree Plantation Drive, K.L. Mehta School, Sector 10, Faridabad",
+                "date": "13 July 2022",
+                "desc": "800 saplings were planted in and around the premises of K.L. Mehta School,Faridabad. In our endeavor Lion's club Faridabad gave their wholehearted support on this project."
+            },
+            {
+                "name": "Sapling Plantation, NRI Complex",
+                "date": "23 July 2022"
+            },
+            {
+                "name": "(Volunteering) From Waste to Wealth",
+                "date": "",
+                "desc": "This project is volunteer work done under the mentorship of Shri Rakesh Khatri ji -the founder of Eco Roots Foundation through Swavalamban Challenge Fund (SCF- Window II) by Small Industries Development Bank of India (SIDBI). The project is titled \"Social Upliftment of rural women in Gautambuddha Nagar of Uttar Pradesh through Sustainable Income Generation & Reviving of 7 Water Bodies by clearing them of Water Hyacinth.\" Since ,water hyacinth is a big problem for a lot of water bodies. The growth leads to the complete destruction of the water body as it leads to complete cut off of the sunlight penetrating into the water because of which rest of the ecosystem of the water body becomes non-existent. The simple solution to the above-mentioned problem is that the water hyacinth be removed so that the water body can be revived and the ecosystem would come back to life. Hence, the proposed project is for revival of 7 such water bodies around Gautambuddha Nagar of Uttar Pradesh. Along with reviving the water bodies, the proposed project is also going to provide income generation activities to the 140 women beneficiaries. These women beneficiaries would be provided with training in removal of water hyacinth to a 90% and then to make marketable useful products out of the extracted stems of water hyacinth. The project would solve two problems, one it would revive the water bodies which have become non-use worthy, namely 7 water bodies/ponds in 7 different villages of Gautambuddha Nagar of Uttar Pradesh. Two, it would provide sustainable income generation to the women beneficiaries in the villages right in their original habitation."
+            },
+            {
+                "name": "Save the Sparrow",
+                "date": "",
+                "desc": "Under the able leadership and guidance of the Nest Man of India - Mr. Rakesh Khatri, the organization is helping towards birds and their conservation by making and installing bird houses across the country. We help to organise workshops in schools, institutions, colleges and various organizations to raise awareness on save the sparrow initiative and teach to build nests and install these to help save sparrow which is a one of the key element of our ecosystem."
+            },
+            {
+                "name": "Books, E-Waste, Old Clothes/Toys, Collection Drive",
+                "date": "02 October 2022",
+                "desc": "The foundation collaborated with and donated uasable books and toys to an underprivileged schoolAnubhav Ek Ehsaas, The E-waste collected was donated to Saahas, Gurugram for recycling."
+            }
+        ]
+    },
+    {
+        "name": "Let's Talk Periods",
+        "route": "lets-talk-periods",
+        "shortDescription": "Working on menstrual health hygiene and menstrual kit donations to the underprivileged.",
+        "thumbnail": "lets-talk-periods.jpg",
+        "imageCount": "6",
+        "quote": {
+            "quote": "All females deserve menstrual well-being, and that includes knowledge and reassurance about her body from the earliest possible age.",
+            "author": "Nikki Tajiri"
+        }
+    },
+    {
+        "name": "Express To Liberate",
+        "route": "express-to-liberate",
+        "shortDescription": "Working on the mental health and well-being.",
+        "thumbnail": "express-to-liberate.jpg",
+        "imageCount": "14",
+        "quote": {
+            "quote": "It is during our darkest moments that we must focus to see the light",
+            "author": "Aristotle"
+        },
+	"timeline": [
+    {
+        "name": "Teen Screens and Mental Health",
+        "date": "16 January 2022",
+        "desc": "An online open mic session was conducted which was attended by 130 teenagers where they openly, and candidly spoke on how they perceive the impact of screen time on their mental health and various issues relating to that."
+    },
+    {
+        "name": "Dance Movement Therapy Sessions",
+        "date": "01 January 2022",
+        "desc": "A series of systematic training sessions and awareness campaigns were conducted with the aim to work on self-confidence, empathy, leadership, and analytical capability to solve problems or challenges during the times of pandemic when all were locked in their homes. Some expected outcomes of DMT are it helps in building relationships and overall concern for the well-being of others; It helps in developing self-esteem and a sense of belonging, Promotes laughter and fun while learning, Helps in improving self-discipline and motivation A bit about Our therapist for the session: Ms. Neeti Arora is an M.A. in clinical psychology, M.S in Psychotherapy, and a CID UNESCO Certified Creative Movement Facilitator. She is a National Awardee for Outstanding volunteer work in this field. She has organized and developed many Dance/ Movement therapy programs to meet the Client's needs. CLINICAL EXPERIENCE : Organization: Department of Preventive Cardiology at FortisEscorts Heart Institute &Research Centre (New Delhi). Worked as a Counsellor & Facilitator with the GET ACTIVE program with an NGO Called \"SWASHRIT\" on inculcating healthy and Active lifestyle habits among Children New Project Development called \"We Care\" was related to starting up a day-care"
+    },
+    {
+        "name": "Campaign on Anxiety and Anxiety Disorders and Overthinking",
+        "date": "01 February 2022",
+        "desc": "Seeing the need of the hour awareness campaigns with the help of Drama, art,music and webinars with expert Ms.Reshma Bhown-A developmental Psychologist and a Lecturer at Delhi University, IGNOU and MRIU to help demystify the coping Mechanism for Anxiety and Anxiety disorders."
+    },
+    {
+        "name": "Awareness Campaign on Social Anxiety Disorder",
+        "date": "01 March 2022",
+        "desc": "Awareness Campaign through facts and figures, cartoons etc. was conducted on Social Anxiety disorders. A webinar was conducted with Dr.Swati Sharma for her take on Social Anxiety disorders and ways to conquer it."
+    },
+    {
+        "name": "World Teen Mental Wellness Day",
+        "date": "02 March 2022",
+        "desc": "According to the American Psychological Association, Gen Z has the worst mental health of any generation. However, teens are dedicated to making a difference. According to Pulse, 64% of Gen Z say they want to achieve a healthier lifestyle for overall happiness, including a stronger self-care routine. Also, 94% consider mental health very important to their general well-being.Ultimately, raising awareness about mental healthand the importance of self-care can help improve an entire generation's mental wellness"
+    },
+    {
+        "name": "The secret of Psychological well-being: from the lens of Women Leaders - International Women's Day",
+        "date": "08 March 2022",
+        "desc": "The women leaders from various industries and countries were interviewed to capture the secret of their psychological well-being while struggling to reach where they are today. Women Interviewed were: Ms.Amrita Madan- Senior Vice Preseident - City Group-Newyork || Ms.Priya Khemka - Director, Client experience and Insight at NTT Ltd. || Ms.Anu Sehgal - Founder Digital Mills, Think co-working Spaces"
+    },
+    {
+        "name": "Happiness Session at National Association for Blind",
+        "date": "20 March 2022",
+        "desc": "The day is observed to spread awareness about the importance of happiness in our lives.It aims to spread the message that the progress of a nation should be about increasing human happiness and well-being, and not just growth of the economy. On this international happiness day ETL visited NAB National Association for Blind to spread in some happiness and cheer and to relieve some stress these children might be facing. The session started with a fun filled activity of introductory session in which a sound ball was passed to random children and whoever caught the ball because of sound introduced themselves - icebreaker.  Then we had various creative movement activities like dance Rhythm ,fun games and laughter dose etc."
+    },
+    {
+        "name": "Awareness Campaign on Abuse and its Impact on Mental Health Well-being",
+        "date": "01 April 2022",
+        "desc": "Awareness on various kinds of abuses ,its impact and strategies to evade if possible or ways to report . the various topics covered under this were Financial abuse, Physical abuse,sexual abuse, emotional abuse and child abuse. April being the \"world child abuse prevention month \" - Dr. Anjali – A renowned Senior pediatrician and adolescent Health Expert was interviewed to share knowledge on child abuse and what do if you witness one."
+    },
+    {
+	"name": "Bullying Awareness",
+        "desc": "Awareness Campaign on Different types of Bullying , its Impact, Role of Bystander and What to Do if Faced by Bully in Different Situations",
+        "date": "13 September 2022"
+    },
+    {
+        "name": "Series of Workshops by Dr. Pradeep Chadha, Director, B.R. Clinic",
+        "date": "01 October 2022",
+        "desc": "A series of workshops attended by over 200 people was conducted by Dr. Pradeep Chadha, a Psychiatrist specialized in alternate therapy for anxiety disorders was taken to empower people with the tools to identify and help themselves to combat anxiety and anxiety disorders. "
+    },
+    {
+        "name": "Session on Good Touch/Bad Touch was Conducted for Students of DAPS-1 School, Delhi Cantt.",
+        "date": "29 September 2022",
+        "desc": "A session was conducted for primary school children of Delhi Area Primary School- 1 (DAPS-1 Army School) on'Good Touch & Bad Touch' . The session began with ice breaking activities to seize students attention and interest . Then they were asked age appropriate questions to sensitise them about feeling comfortable and uncomfortable, private parts and when it's an alarming situation -what steps they must do like saying loud NO, to running from that area and going to some person safe and must telling it to parent/teacher/guardian with whom they are comfortable with. Expressing what you feel is must - more so for children. Knowing about this will help them to be protected against sexual harassment or child abuse"
+    },
+    {
+        "name": "Session for teacher of DAPS-2 on \"Inclusion : A teacher's role without stress\"",
+        "date": "30 September 2022",
+        "desc": "The session was conducted on 30th September 2022 by our mentor and special educator - Ms. Reshma Bhown. The session was conducted to raise sensitivity for children with special needs to the teachers of DAPS-2 army school, Delhi t. Inclusiveness is to be dealt with very sensibly by all stakeholders and awareness has to be raised to all so that the students with disabilities can flourish in a real inclusive environment with good mental well-being"
+    },
+    {
+        "name": "Session conducted for Teachers of DAPS-2 on \"Helping boost Good mental Health for Students\"",
+        "date": "21 October 21, 2022",
+        "desc": "We conducted sessions with the teachers of Delhi Area Primary School-II , Delhi cant. and empowered them to gain an idea about how to promote good mental health among all students. The workshop: In the Minds Eye, was a thrilling session conducted by Dr. Swati S. Soni, during which she provided the teachers with the means to help thousands of students in DAPS-ll not only to have good mental health for themselves but also to aid their peers."
+    },
+    {
+        "name": "Walk for Mental Health",
+        "date": "November 20, 2022",
+        "desc": "The awareness walk - \"Walk for Mental Health and wellness\" under the initiative Express to Liberate was conducted today -20th November 2022. Initiated by participants and volunteers, the walk kept attracting many people, who received informational flyers. As we proceeded towards Jahapanah forest many people appreciated the cause and joined in the walk leading to huge number of participation and a grand success till we reached the finishing point covering a stretch of 5+ kilometres. The walk clearly met its objective of spreading awareness and empowering people to take care of their own mental health and well-being. Team of Reinvigorate Foundation appreciates the enthusiasm and participation of all the joiners today."
+    }
+]
+    },
+    {
+        "name": "Vitalising Lives",
+        "route": "vitalising-lives",
+        "shortDescription": "Helping the underprivileged by educating, skill development to live a better standard of living.",
+        "thumbnail": "vitalising-lives.jpg",
+        "imageCount": "12",
+        "quote": {
+            "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+            "author": "Pablo Picasso"
+        }
+    }
+]
