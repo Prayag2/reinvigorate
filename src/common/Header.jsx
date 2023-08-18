@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useState, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import NavLink from "../components/NavLink";
 import Wrapper from "../components/Wrapper";
@@ -9,10 +9,8 @@ function Header() {
     const { observeElements } = useContext(UtilContext);
     const [navOpen, setNavOpen] = useState(false);
     const location = useLocation();
-    const [navLinks, setNavLinks] = useState([]);
 
-    useEffect(()=>{
-	setNavLinks([
+    const navLinks = useMemo(()=>[
 	    {
 		text: "Home",
 		route: "/",
@@ -31,8 +29,9 @@ function Header() {
 		element: "",
 		isActive: location.pathname === "/volunteer",
 	    }
-	]);
+	], [location.pathname])
 
+    useEffect(()=>{
 	window.scrollTo(0,0);
     }, [location.pathname])
 

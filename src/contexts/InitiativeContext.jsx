@@ -5,13 +5,13 @@ export const InitiativeContext = createContext();
 function InitiativeContextProvider({ children }) {
 
     const [initiatives, setInitiatives] = useState([]);
+    async function fetchData() {
+	const initiativesResponse = await fetch("/data/initiatives.json");
+	const initiativesJSON = await initiativesResponse.json();
+	setInitiatives(initiativesJSON);
+    }
+
     useEffect(() => {
-	async function fetchData() {
-	    const initiativesResponse = await fetch("/data/initiatives.json");
-	    const initiativesJSON = await initiativesResponse.json();
-	    setInitiatives(initiativesJSON);
-	    console.log("Set initiatives successfully")
-	}
 	fetchData();
     }, []);
 
@@ -21,5 +21,4 @@ function InitiativeContextProvider({ children }) {
 	</InitiativeContext.Provider>
     )
 }
-
 export default InitiativeContextProvider;
