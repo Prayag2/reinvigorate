@@ -1,0 +1,25 @@
+[
+    {
+	"name": "Krishya Khajanchi",
+	"role": "Founder",
+	"image": "/images/team/krishya.png",
+	"linkedin": "https://www.linkedin.com/in/krishyakhajanchi/"
+    },
+    {
+	"name": "Prayag Jain",
+	"role": "Technical Team Lead",
+	"image": "/images/team/prayag.png",
+	"linkedin": "https://www.linkedin.com/in/prayagjain"
+    },
+    {
+	"name": "Yash Gupta",
+	"role": "Planning and Outreach",
+	"image": "/images/team/yash.png",
+	"linkedin": "https://www.linkedin.com/in/yash-gupta-310593111"
+    },
+    {
+	"name": "Hridya Garg",
+	"role": "Planning and Outreach",
+	"image": "/images/team/hridya.jpg"
+    }
+]

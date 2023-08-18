@@ -1,7 +1,9 @@
 import Hero from "./sections/Hero"
 import Initiatives from "./sections/Initiatives"
 import Gallery from "./sections/Gallery"
-import Volunteer from "./sections/Volunteer"
+import Team from "./sections/Team"
+
+import TeamContextProvider from "/src/contexts/TeamContext"
 
 function Home() {
 
@@ -10,7 +12,9 @@ function Home() {
 	    <Hero/>
 	    <Initiatives/>
 	    <Gallery/>
-	    <Volunteer/>
+	    <TeamContextProvider>
+		<Team/>
+	    </TeamContextProvider>
 	</>
     )
 }
