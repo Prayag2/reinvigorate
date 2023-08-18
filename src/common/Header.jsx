@@ -69,12 +69,11 @@ function Header() {
                                 isActive={navLink.isActive}
                             />
                         ))}
-                        <NavLink external route="" text="Donate" external />
+                        <NavLink external route="" text="Donate"/>
                         <NavLink
                             external
                             route="https://girlupai.reinvigoratefoundation.org"
                             text="Girl Up AI"
-                            external
                         />
                     </div>
                 </Wrapper>
