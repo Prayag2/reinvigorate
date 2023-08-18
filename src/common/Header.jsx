@@ -7,6 +7,7 @@ import { UtilContext } from "/src/contexts/UtilContext";
 
 function Header() {
     const { observeElements } = useContext(UtilContext);
+    const [navOpen, setNavOpen] = useState(false);
     const location = useLocation();
 
     const [navLinks, setNavLinks] = useState([
@@ -59,7 +60,9 @@ function Header() {
             <div className="top-0 w-full flex justify-center items-center h-[10vh] fixed bg-background z-10">
                 <Wrapper className="h-full flex justify-between items-center">
                     <Logo className="h-full py-4" />
-                    <div className="hidden lg:flex space-x-6">
+		    <img onClick={()=>setNavOpen(true)} className="h-full py-5 md:hidden" alt="⋯" src="/images/other/menu.svg"/>
+                    <div onClick={()=>setNavOpen(false)} className={`text-xl fixed w-full h-full top-0 transition-[left] ${navOpen ? "left-0" : "left-[-100%]"} flex flex-col justify-center items-center gap-6 bg-secondary md:justify-end md:bg-background md:flex-row md:relative md:left-auto md:top-auto md:text-base`}>
+			<img onClick={()=>setNavOpen(false)} className="h-10 aspect-square absolute top-5 right-5 md:hidden" alt="⋯" src="/images/other/close.svg"/>
                         {navLinks.map((navLink, id) => (
                             <NavLink
                                 key={id}
