@@ -1,12 +1,7 @@
 import Wrapper from "/src/components/Wrapper"
 import Button from "/src/components/Button"
-import { useContext } from "react"
-
-import { UtilContext } from "/src/contexts/UtilContext";
 
 function Hero() {
-    const { scrollToElement } = useContext(UtilContext);
-
     return (
 	<main id="hero" className="scroll-mt-[10vh] w-full h-[90vh] bg-secondary relative">
 	    <img className="w-full h-full object-cover z-0" src="/images/hero.jpg" alt=""/>
@@ -21,7 +16,7 @@ function Hero() {
 		</div>
 		<h2 className="text-lg md:w-[60%] md:text-lg lg:text-xl text-background w-full mb-8">Join us in on our mission to make the world a more just, equitable, and sustainable place</h2>
 		<div className="flex gap-2 flex-wrap justify-center items-center md:justify-start">
-		    <Button onClick={()=>{scrollToElement("#volunteer")}} text="Volunteer"/>
+		    <Button to="/volunteer" text="Volunteer"/>
 		    <Button text="Donate Now" secondary/>
 		</div>
 	    </Wrapper>
