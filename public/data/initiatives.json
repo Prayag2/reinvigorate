@@ -1,93 +1,17 @@
 [
   {
-    "name": "Praise The Strays",
-    "route": "praise-the-strays",
-    "shortDescription": "Working on animal rescue, spray neutering them, so they live healthy and longer, helping to get adopted in caring homes and shelters.",
-    "description": "Animal welfare is affected by the surroundings, and the relationships human beings have with animals, and it is the responsibility of the human race to peacefully coexist with animals and treat them humanely and with respect. Across the globe, the animal community has faced severe hostility and has been subjected to mistreatment, torture, and abandonment by humans.",
-    "thumbnail": "praise-the-strays.jpg",
-    "imageCount": "10",
-    "quote": {
-      "quote": "The greatness of a nation can be judged by the way its animals are treated.",
-      "author": "Mahatma Gandhi"
-    },
-    "timeline": [
-      {
-        "name": "Fund Raising for Pw Saviour foundation through Milaap",
-        "date": "",
-        "desc": "For building a proper shelter for cats with special needs, an area was identified in a nearby complex in C.R.Park, New Delhi where the owner is ready to lease the land for making a shelter for these cats. Reinvigorate Foundation helped to raise the funds through the Milaap Fund Raising platform and pitch for donations to various corporates. We also rescue and spay-neuter stray cats, so they live healthily and disease free"
-      }
-    ]
-  },
-  {
-    "name": "Boiling Alive",
-    "route": "boiling-alive",
-    "shortDescription": "Working on the management of climatic changes and encouraging people to reduce and reverse carbon footprints",
-    "description": "Our initiative boiling alive strives to work toward pressing environmental issues. We all know that the growing climate change is drastically going to affect our future generations unless we do something about it. Something which is consistent and makes a greater collaborative and thought-provoking impact on the environmental issues",
-    "thumbnail": "boiling-alive.jpg",
-    "imageCount": "28",
-    "quote": {
-      "quote": "We are the first generation to feel the effect of climate change and the last generation who can do something about it.",
-      "author": "Barack Obama, Former President of the USA"
-    },
-    "timeline": [
-      {
-        "name": "E-Waste Collection Drive for Team Mark",
-        "date": "01 June 2017",
-        "desc": "The 36 Kgs of e-waste collected by my team was given to e-waste cycle hub."
-      },
-      {
-        "name": "Go Green Tree Plantation Drive, K.L. Mehta School, Sector 10, Faridabad",
-        "date": "13 July 2022",
-        "desc": "800 saplings were planted in and around the premises of K.L. Mehta School,Faridabad. In our endeavor Lion's club Faridabad gave their wholehearted support on this project."
-      },
-      {
-        "name": "Sapling Plantation, NRI Complex",
-        "date": "23 July 2022"
-      },
-      {
-        "name": "(Volunteering) From Waste to Wealth",
-        "date": "",
-        "desc": "This project is volunteer work done under the mentorship of Shri Rakesh Khatri ji -the founder of Eco Roots Foundation through Swavalamban Challenge Fund (SCF- Window II) by Small Industries Development Bank of India (SIDBI). The project is titled \"Social Upliftment of rural women in Gautambuddha Nagar of Uttar Pradesh through Sustainable Income Generation & Reviving of 7 Water Bodies by clearing them of Water Hyacinth.\" Since ,water hyacinth is a big problem for a lot of water bodies. The growth leads to the complete destruction of the water body as it leads to complete cut off of the sunlight penetrating into the water because of which rest of the ecosystem of the water body becomes non-existent. The simple solution to the above-mentioned problem is that the water hyacinth be removed so that the water body can be revived and the ecosystem would come back to life. Hence, the proposed project is for revival of 7 such water bodies around Gautambuddha Nagar of Uttar Pradesh. Along with reviving the water bodies, the proposed project is also going to provide income generation activities to the 140 women beneficiaries. These women beneficiaries would be provided with training in removal of water hyacinth to a 90% and then to make marketable useful products out of the extracted stems of water hyacinth. The project would solve two problems, one it would revive the water bodies which have become non-use worthy, namely 7 water bodies/ponds in 7 different villages of Gautambuddha Nagar of Uttar Pradesh. Two, it would provide sustainable income generation to the women beneficiaries in the villages right in their original habitation."
-      },
-      {
-        "name": "Save the Sparrow",
-        "date": "",
-        "desc": "Under the able leadership and guidance of the Nest Man of India - Mr. Rakesh Khatri, the organization is helping towards birds and their conservation by making and installing bird houses across the country. We help to organise workshops in schools, institutions, colleges and various organizations to raise awareness on save the sparrow initiative and teach to build nests and install these to help save sparrow which is a one of the key element of our ecosystem."
-      },
-      {
-        "name": "Books, E-Waste, Old Clothes/Toys, Collection Drive",
-        "date": "02 October 2022",
-        "desc": "The foundation collaborated with and donated uasable books and toys to an underprivileged schoolAnubhav Ek Ehsaas, The E-waste collected was donated to Saahas, Gurugram for recycling."
-      }
-    ]
-  },
-  {
-    "name": "Let's Talk Periods",
-    "route": "lets-talk-periods",
-    "shortDescription": "Working on menstrual health hygiene and menstrual kit donations to the underprivileged.",
-    "description": "In our society talking about periods is taboo, this stigma attached to menstrual talk or maintaining selfhygiene needs to be broken. In developing countries like ours , women's choices of menstrual hygiene materials are often limited by the costs, availability and social norms. Adequate sanitation facilities and access to feminine hygiene products are one part of the solution. Along with this we also need to create a culture that welcomes discussion and makes adequate education for women and girls. There needs to be an awareness about periods and related hygiene, the diseases which women might catch if they don't stay hygienic during this time like using old clothes, using the same cloth for long periods etc. Our main motive is to spread this awareness amongst female that how important it is for them to stay clean and hygienic in this time. Our government has also taken initiative on providing female hygiene products as extremely cheap rates which many of women don’t even know about as per our data and observation. We conduct awareness camps in underprivileged areas to educate them about the same.",
-    "thumbnail": "lets-talk-periods.jpg",
-    "imageCount": "6",
-    "quote": {
-      "quote": "All females deserve menstrual well-being, and that includes knowledge and reassurance about her body from the earliest possible age.",
-      "author": "Nikki Tajiri"
-    },
-    "timeline": [
-      {
-        "name": "Awareness Drive in Leh District",
-        "date": "28 May 2022",
-        "desc": "Reinvigorate Foundation got the opportunity to collaborate with Shoqpa Foundation and conducted a workshop and open mic session to raise awareness on Menstrual hygiene on Menstrual Hygiene Day (MHD) observed on May 28, 2022 at Leh district to highlight the importance of good menstrual hygiene management. Rightly said by Ms.Dorma -a Research Assistant in an institution that periods are as normal as eating and drinking then why shy from it? We distributed 500 menstrual hygiene kits to the underprivileged."
-      },
-      {
-        "name": "Awareness Camp and Workshop at Garib Niwaj School, GK-2"
-      }
-    ]
-  },
-  {
     "name": "Express To Liberate",
     "route": "express-to-liberate",
     "shortDescription": "Working on the mental health and well-being.",
-    "description": "Express to liberate believes in achieving the un sustainable development goal of good health and well-being by focusing on mental health awareness and conducting workshops/seminar/webinars and awareness campaigns on issues related to mental well-being. Etl believes that free self-expression, even anonymous and authenticity of emotional, psychological and spiritual being is the ultimate power that lies in the hands of an individual which liberates from all projections, societal concerns and constantly paves a path towards self-development and living a happy life. We believe that the shackles and stereotypes of our society must be broken to encourage equality and acceptance for all.",
+    "body": [
+      {
+        "text": "Express to Liberate believes in achieving the UN Sustainable Development Goal of Good Health and Wellbeing by focusing on mental health awareness. ETL believes that free self-expression, even anonymous and authenticity of emotional, psychological and spiritual being is the ultimate power that lies in the hands of an individual which liberates from all projections, societal concerns and constantly paves a path towards self-development and living a happy life.We believe that the shackles and stereotypes of our society must be broken to encourage equality and acceptance for all."
+      },
+	{
+	    "title": "Mission & Vision",
+	    "text": "ETL constantly strives to provide a platform for:\n• awareness and acceptance to feel certain emotions.\n• catharsis to liberate bottled-up emotions.\n• compathy by sharing people's journeys and struggles to enable all to freely relate without any pretense or prejudice.\n• psychological support/ therapies/ happiness sessions from our esteemed panel of mentors\n• unanimously work to transform communities to becoming open, accepting and a healthy, happy environment for all."
+	}
+    ],
     "thumbnail": "express-to-liberate.jpg",
     "imageCount": "14",
     "quote": {
@@ -98,48 +22,81 @@
       {
         "name": "Teen Screens and Mental Health",
         "date": "16 January 2022",
-        "desc": "An online open mic session was conducted which was attended by 130 teenagers where they openly, and candidly spoke on how they perceive the impact of screen time on their mental health and various issues relating to that."
+          "desc": "An online open mic session was conducted which was attended by 130 teenagers where they openly, and candidly spoke on how they perceive the impact of screen time on their mental health and various issues relating to that. A few facts and figures were presented by Dr. Esha Gandhi- our moderator for the session.",
+	  "links": ["https://www.instagram.com/p/CYzO-blMAWF/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Dance Movement Therapy Sessions",
         "date": "01 January 2022",
-        "desc": "A series of systematic training sessions and awareness campaigns were conducted with the aim to work on self-confidence, empathy, leadership, and analytical capability to solve problems or challenges during the times of pandemic when all were locked in their homes. Some expected outcomes of DMT are it helps in building relationships and overall concern for the well-being of others; It helps in developing self-esteem and a sense of belonging, Promotes laughter and fun while learning, Helps in improving self-discipline and motivation A bit about Our therapist for the session: Ms. Neeti Arora is an M.A. in clinical psychology, M.S in Psychotherapy, and a CID UNESCO Certified Creative Movement Facilitator. She is a National Awardee for Outstanding volunteer work in this field. She has organized and developed many Dance/ Movement therapy programs to meet the Client's needs. CLINICAL EXPERIENCE : Organization: Department of Preventive Cardiology at FortisEscorts Heart Institute &Research Centre (New Delhi). Worked as a Counsellor & Facilitator with the GET ACTIVE program with an NGO Called \"SWASHRIT\" on inculcating healthy and Active lifestyle habits among Children New Project Development called \"We Care\" was related to starting up a day-care"
+          "desc": "A series of systematic training sessions and awareness campaigns were conducted with the aim to work on self-confidence, empathy, leadership, and analytical capability to solve problems or challenges during the times of pandemic when all were locked in their homes.\nSome of the expected outcomes of DMT are it helps in building relationships and overall concern for the well-being of others; It helps in developing self-esteem and a sense of belonging, Promotes laughter and fun while learning, Helps in improving self-discipline and motivation\nA bit about Our therapist for the session:\nMs. Neeti Arora is an M.A in clinical psychology, M.S in Psychotherapy, and a CID UNESCO Certified Creative Movement Facilitator. She is a National Awardee for Outstanding volunteer work in this field. She has organized and developed many Dance/ Movement therapy programs to meet the Client's needs.",
+	  "links": ["https://www.instagram.com/reel/CZYtUv9KXYE/?igshid=YmMyMTA2M2Y=","https://www.instagram.com/reel/CZH3XJOIID7/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/reel/CY_3GR7qCFT/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Campaign on Anxiety and Anxiety Disorders and Overthinking",
         "date": "01 February 2022",
-        "desc": "Seeing the need of the hour awareness campaigns with the help of Drama, art,music and webinars with expert Ms.Reshma Bhown-A developmental Psychologist and a Lecturer at Delhi University, IGNOU and MRIU to help demystify the coping Mechanism for Anxiety and Anxiety disorders."
+          "desc": "Seeing the need of the hour awareness campaigns with the help of Drama, art,music and webinars with expert Ms.Reshma Bhown-A developmental Psychologist and a Lecturer at Delhi University, IGNOU and MRIU to help demystify the coping Mechanism for Anxiety and Anxiety disorders.",
+	  "links": ["https://www.instagram.com/tv/CZgHt5HoLNJ/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/tv/CZ6cYNlD0lG/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/tv/CZ8lKV1DxAl/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/reel/CZYtUv9KXYE/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Awareness Campaign on Social Anxiety Disorder",
         "date": "01 March 2022",
-        "desc": "Awareness Campaign through facts and figures, cartoons etc. was conducted on Social Anxiety disorders. A webinar was conducted with Dr.Swati Sharma for her take on Social Anxiety disorders and ways to conquer it."
+          "desc": "Awareness Campaign through facts and figures, cartoons etc. was conducted on Social Anxiety disorders. A webinar was conducted with Dr.Swati Sharma for her take on Social Anxiety disorders and ways to conquer it.",
+	  "links": ["https://www.instagram.com/tv/Cajqo6jDNZM/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "World Teen Mental Wellness Day",
         "date": "02 March 2022",
-        "desc": "According to the American Psychological Association, Gen Z has the worst mental health of any generation. However, teens are dedicated to making a difference. According to Pulse, 64% of Gen Z say they want to achieve a healthier lifestyle for overall happiness, including a stronger self-care routine. Also, 94% consider mental health very important to their general well-being.Ultimately, raising awareness about mental healthand the importance of self-care can help improve an entire generation's mental wellness"
+          "desc": "According to the American Psychological Association, Gen Z has the worst mental health of any generation. However, teens are dedicated to making a difference. According to Pulse, 64% of Gen Z say they want to achieve a healthier lifestyle for overall happiness, including a stronger self-care routine. Also, 94% consider mental health very important to their general well-being. Ultimately, raising awareness about mental health and the importance of self-care can help improve an entire generation's mental wellness.",
+	  "links": ["https://www.instagram.com/reel/CanBZMyDHO0/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "The secret of Psychological well-being: from the lens of Women Leaders - International Women's Day",
         "date": "08 March 2022",
-        "desc": "The women leaders from various industries and countries were interviewed to capture the secret of their psychological well-being while struggling to reach where they are today. Women Interviewed were: Ms.Amrita Madan- Senior Vice Preseident - City Group-Newyork || Ms.Priya Khemka - Director, Client experience and Insight at NTT Ltd. || Ms.Anu Sehgal - Founder Digital Mills, Think co-working Spaces"
+          "desc": "The women leaders from various industries and countries were interviewed to capture the secret of their psychological well-being while struggling to reach where they are today. Women Interviewed were: Ms.Amrita Madan- Senior Vice Preseident - City Group-Newyork || Ms.Priya Khemka - Director, Client experience and Insight at NTT Ltd. || Ms.Anu Sehgal - Founder Digital Mills, Think co-working Spaces",
+	  "links": ["https://www.instagram.com/tv/Ca2o7H3jVvM/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/tv/Ca0B5ZNjo_y/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/tv/CarVoZwjrfb/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Happiness Session at National Association for Blind",
         "date": "20 March 2022",
-        "desc": "The day is observed to spread awareness about the importance of happiness in our lives.It aims to spread the message that the progress of a nation should be about increasing human happiness and well-being, and not just growth of the economy. On this international happiness day ETL visited NAB National Association for Blind to spread in some happiness and cheer and to relieve some stress these children might be facing. The session started with a fun filled activity of introductory session in which a sound ball was passed to random children and whoever caught the ball because of sound introduced themselves - icebreaker.  Then we had various creative movement activities like dance Rhythm ,fun games and laughter dose etc."
+          "desc": "The day is observed to spread awareness about the importance of happiness in our lives. It aims to spread the message that the progress of a nation should be about increasing human happiness and wellbeing, and not just growth of the economy.\nOn this international happiness day ETL visited NAB National Association for Blind to spread in some happiness and cheer and to relieve some of the stress these children might be facing.\nThe session started with a fun filled activity of introductory session in which a sound ball was passed to random children and whoever caught the ball because of sound introduced themselves - ice breaker. Then we had various creative movement activities like dance Rythm ,fun games and laughter dose etc.",
+	  "links": ["https://www.instagram.com/tv/Cbajt95jVrG/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Awareness Campaign on Abuse and its Impact on Mental Health Well-being",
         "date": "01 April 2022",
-        "desc": "Awareness on various kinds of abuses ,its impact and strategies to evade if possible or ways to report . the various topics covered under this were Financial abuse, Physical abuse,sexual abuse, emotional abuse and child abuse. April being the \"world child abuse prevention month \" - Dr. Anjali – A renowned Senior pediatrician and adolescent Health Expert was interviewed to share knowledge on child abuse and what do if you witness one."
+          "desc": "Awareness on various kinds of abuses ,its impact and strategies to evade if possible or ways to report . the various topics covered under this were Financial abuse, Physical abuse,sexual abuse, emotional abuse and child abuse. April being the \"world child abuse prevention month \" - Dr. Anjali – A renowned Senior pediatrician and adolescent Health Expert was interviewed to share knowledge on child abuse and what do if you witness one.",
+	  "links": ["https://www.instagram.com/tv/CcqWHOQjQwa/?igshid=YmMyMTA2M2Y=", "https://www.instagram.com/tv/CcngvMLDXsA/?igshid=YmMyMTA2M2Y="]
       },
       {
         "name": "Bullying Awareness",
         "desc": "Awareness Campaign on Different types of Bullying , its Impact, Role of Bystander and What to Do if Faced by Bully in Different Situations",
         "date": "13 September 2022"
       },
+	{
+	    "name": "Pride Month",
+	    "date": "01 June 2022",
+	    "desc": "A series of interviews were conducted with the LGBT+ community in an attempt to try to break the taboo about being and accepting oneself and one’s identity and sensitizing others about the challenges this community faces . Still prevalent in world but especially in country like India where people make fun of, bully or look down upon people who come out or show being a part of this community. Express to liberate also participated in Pride Parade Amritsar -First of the kind in this small town , to show our support to this community." ,
+	    "links": [
+		"https://www.instagram.com/tv/CeZAvqRpZk6/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/Cebt0lND4r-/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/CedE_zODOys/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/CeyIlTHptVG/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/Ceh3dahAUb_/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/reel/Ce9T_cYBv4O/?igshid=YmMyMTA2M2Y="
+	    ]
+	},
+	{
+	    "name": "Express through different mediums",
+	    "desc": "Express to Liberate believes and propagates that Expression through different mediums id=s utmost important to maintain mental health well-being. To propagate that further we did a series of interviews with industries whose who to raise awareness on the importance of medium of expressions and what others do to maintain a good mental health wellbeing.",
+	    "links": [
+		"https://www.instagram.com/tv/CgKBJMqDMF1/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/CgACbogIAC_/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/Cf1O4F6DRqV/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/CfoxY1cjLHJ/?igshid=YmMyMTA2M2Y=",
+		"https://www.instagram.com/tv/CcsUWeyALQR/?igshid=YmMyMTA2M2Y="
+
+	    ]
+	},
       {
         "name": "Series of Workshops by Dr. Pradeep Chadha, Director, B.R. Clinic",
         "date": "01 October 2022",
@@ -164,6 +121,68 @@
         "name": "Walk for Mental Health",
         "date": "November 20, 2022",
         "desc": "The awareness walk - \"Walk for Mental Health and wellness\" under the initiative Express to Liberate was conducted today -20th November 2022. Initiated by participants and volunteers, the walk kept attracting many people, who received informational flyers. As we proceeded towards Jahapanah forest many people appreciated the cause and joined in the walk leading to huge number of participation and a grand success till we reached the finishing point covering a stretch of 5+ kilometres. The walk clearly met its objective of spreading awareness and empowering people to take care of their own mental health and well-being. Team of Reinvigorate Foundation appreciates the enthusiasm and participation of all the joiners today."
+      },
+	{
+	    "name": "Participation in Delhi queer Parade to support LGBTQ+ Community",
+	    "desc": "\"LGBT people are some of the bravest and most potent change agents and leaders I have encountered, and the most forceful defenders of the vulnerable and voiceless, because they know what it's like to be there.\"\n- Ronan Farrow\nWhy to be afraid of speaking what you truly are!\nOur 28 volunteers joined and supported the pride parade and Appreciated the work done by Delhi queer pride group. The speech at the event which was made in both Hindi and English languages, along with a sign language interpreter to make sure that everyone, regardless of their educational background or disability gets the message."
+	},
+	{
+	    "name": "Interview with our mentor, Dr. Pradeep Chadha, Ireland",
+	    "date": "02 March 2023",
+	    "desc": "Dr.Pradeep Chadha - a highly Experienced Psychiatrist offering drugless therapy . Deep insight into anxiety and depression and ways to combat are discussed in this interview. The interview was taken by Ms.Erin and very humbly is sent by Dr.Chadha to share with ETL. The interview helped to raise awareness on anxiety and related issues and reiterated that mental health is a very sensitive topic and should be handled at priority and carefully."
+	},
+	{
+	    "name": "Awareness drive on OCD, its causes, impacts, feels like - to raise empathy, its prevention, effects and how to combat with OCD or help someone with OCD",
+	    "date": "01 March 2023"
+	},
+	{
+	    "name": "Awareness drive on eating disorders and all about managing it",
+	    "date": "01 May 2023"
+	},
+	{
+	    "name": "Open mic session on Mental Health and Social Justice for LGBTQIA+ at Ashoka University Amphitheatre",
+	    "date": "30 May 2023"
+	},
+	{
+	    "name": "Raising awareness on Mental health for men on Men Mental health month",
+	    "date": "01 June 2023"
+	},
+	{
+	    "name": "Awareness campaign on Helping Friends with Mental Health, feeling you might have at that time, self-care while helping",
+	    "date": "01 July 2023"
+	}
+    ]
+  },
+  {
+    "name": "Let's Talk Periods",
+    "route": "lets-talk-periods",
+    "shortDescription": "Working on menstrual health hygiene and menstrual kit donations to the underprivileged.",
+    "body": [
+      {
+        "text": "In our society talking about periods is taboo, this stigma attached to menstrual talk or maintaining self-hygiene needs to be broken. In developing countries, women's choices of menstrual hygiene materials are often limited by the costs, availability and social norms. Adequate sanitation facilities and access to feminine hygiene products are one part of the solution. Along with this we also need to Create a culture that welcomes discussion and makes adequate education for women and girls. There needs to be an awareness about periods and related hygiene, the Diseases which women might catch if they don't stay hygienic during this time like using old clothes, using the same cloth for long periods etc."
+      },
+      {
+        "title": "Awareness camps on Menstrual Hygiene and distribution of menstrual hygiene kits",
+        "text": "Reinvigorate Foundation conducts workshops on raising awareness on Menstrual hygiene to stop period poverty. The Men and women are made aware of cheap and hygienic alternatives available which are environment and pocket friendly too.\nWomen are also taught how to stich reusable clothe pads along with cleaning and drying instructions. They are empowered to break some age-old horrendous traditions where they are considered untouchables or have to bathe at 3 a.m in open or are locked up in a separate room like a prisoner and food is passed on to them for five days .Men are sensitized to break through these taboos too and are motivated to taking care of women in their homes and help them adopt a healthy way of living.\nAmong numerous other drives conducted monthly with schools for underprivileged and in villages with the help of Sarpanch ,Menstrual Hygiene Day (MHD) is observed every year on May 28th with MEGA drives across month like the one conducted at leh district in May2022 to highlight the importance of good menstrual hygiene management. Rightly said by Ms.Dorma -a Research Assistant in an institution that periods are as normal as eating and drinking then why shy from it !\nTo watch some clips of the same visit :",
+        "links": [
+          "https://www.instagram.com/tv/CeHJt3nD_x4/?igshid=YmMyMTA2M2Y="
+        ]
+      }
+    ],
+    "thumbnail": "lets-talk-periods.jpg",
+    "imageCount": "6",
+    "quote": {
+      "quote": "All females deserve menstrual well-being, and that includes knowledge and reassurance about her body from the earliest possible age.",
+      "author": "Nikki Tajiri"
+    },
+    "timeline": [
+      {
+        "name": "Awareness Drive in Leh District",
+        "date": "28 May 2022",
+        "desc": "Reinvigorate Foundation got the opportunity to collaborate with Shoqpa Foundation and conducted a workshop and open mic session to raise awareness on Menstrual hygiene on Menstrual Hygiene Day (MHD) observed on May 28, 2022 at Leh district to highlight the importance of good menstrual hygiene management. Rightly said by Ms.Dorma -a Research Assistant in an institution that periods are as normal as eating and drinking then why shy from it? We distributed 500 menstrual hygiene kits to the underprivileged."
+      },
+      {
+        "name": "Awareness Camp and Workshop at Garib Niwaj School, GK-2"
       }
     ]
   },
@@ -171,7 +190,11 @@
     "name": "Vitalising Lives",
     "route": "vitalising-lives",
     "shortDescription": "Helping the underprivileged by educating, skill development to live a better standard of living.",
-    "description": "With millions of people deprived of education and employment there are a lot of dreams being cut short. When these people get the opportunities they deserve, the world begins to change; poverty goes down, economies grow, families get stronger and most importantly they become aware of their basic rights. Vitalizing lives is an initiative for taken to help these people lead a decent standard of living. We strive to provide them with sources for entertainment, study, sports to foster a healthy mind and body. We encourage people to donate their pre-loved possessions like old books, clothes, accessories, comic books, board games etc. Which are in a reusable condition, to further provide to disadvantaged children. Further, we conduct drives to make these young adults work-ready by conducting computer literacy drives, communication classes, handicraft classes etc.",
+    "body": [
+      {
+        "text": "With millions of people deprived of education and employment there are a lot of dreams being cut short. When these people get the opportunities they deserve, the world begins to change; poverty goes down, economies grow, families get stronger and most importantly they become aware of their basic rights. Vitalizing Lives is an initiative taken to help these people lead a decent standard of living.\nWe strive to provide them with sources for entertainment, study, sports to foster a healthy mind and body. We encourage people to donate their preloved possessions like old books, clothes, accessories, stationeries, comic books, board games etc. which are in a reusable condition, to further provide to disadvantaged children.\nFurther, we conduct drives to make these young adults work-ready by conducting computer literacy drives, communication classes, handicraft classes etc."
+      }
+    ],
     "thumbnail": "vitalising-lives.jpg",
     "imageCount": "12",
     "quote": {
@@ -180,28 +203,85 @@
     },
     "timeline": [
       {
-        "name": "Communication Classes for Underprivileged Students",
-        "date": "01 January 2022",
-        "desc": "The main problem identified while taking classes for students with limited means is their employability as they enter the job markets. The reason -Simple! Lack of communication skills. We took communication classes for these students, centered around helping them converse better to make them Job Ready. We also created some modules for these children in Hindi and English to empower them by having access to resources for improving their communication skills on their own. This has now become our flagship program wherein we are tying up Garib Niwaj school and evening online classes with underprivileged students in association with Be Dauntless Foundation to give communication classes to enhance their communication skills and their confidence and make them job ready"
+        "name": "Communication/Computer literacy Classes for Underprivileged Students",
+        "desc": "The main problem identified while taking classes for students with limited means is their employability as they enter the job markets. The reason -Simple! Lack of communication skills. We take communication classes for these students, centered around helping them converse better to make them Job Ready. We also create some modules for these children in Hindi and English to empower them by having access to resources for improving their communication skills on their own.\nComputer literacy classes are conducted by volunteers with students of Anubhav -ek ehsaas and with students coming from neighboring areas at Foundation’s Headoffice .The main idea is to ignite the love for working on computers and learn coding or MS office which will make them more skilled for better jobs in future."
       },
       {
-        "name": "Series of Workshops of Sustainable Saleable for Specially abled Children",
-        "date": "01 July 2022",
-        "desc": "Reinvigorate foundation conducted a series of workshops on Saturdays and Sundays making eco-friendly raisin salable for the specially abled children of Prabhat - An awakening in Faridabad. The objective of the workshops was to involve them in fine motor skills, channelize their energy, and put it into creativity. These children learned to make beautiful eco-friendly coasters, trays, bookmarks, test tube vases, beads jewelry etc., which will be part of saleable in Melas organized around various festivals and Flea markets."
+        "name": "Workshops of Sustainable saleables",
+        "desc": "Reinvigorate foundation conducts a series of workshops on Saturdays and Sundays making eco-friendly raisin saleable, arts from clays etc for the specially abled/under privileged /orphans of Prabhat- An awakening in Faridabad, Joy of helping -NGO, Anubhav -Ek Ehsaas etc .  The objective of the workshops was to channelize their energy and put it into creativity. These children not only learn to make beautiful eco-friendly coasters, trays, bookmarks, test tube vases, clay Ganesha, flags  etc., which can be part of saleable in Melas organized around various festivals and Flea markets but also are happy to work with different mediums."
       },
       {
-        "name": "Book Donation Drive",
-        "date": "August 26, 2022",
-        "desc": "A book donation drive was organized in Guru Nanak Garib Niwaj Education Society where course books were donated to High school Students and books relating to various interests, ages, encyclopedias were donated to set up their library."
+        "name": "Book Donation Drives",
+        "desc": "Book donation drives are organized in various schools for under privileged children and community halls/ rooms of such areas like Guru Nanak Garib Niwaj Education Society -GK-2 , Anubhav -Ek ehsaas- Faridabad , Village school in Ankhir village etc  where required course books are donated to High school Students and books relating to various interests, ages, encyclopedias are donated to set up and expand their library."
       },
       {
-        "name": "Awareness Camp for Atal Tinkering Lab for Students of Garib Niwaj School, GK-2 under MRIS Charmwood",
-        "date": "November 5, 2022",
-        "desc": "15 students of Garib Niwaj School, GK-2 were taken to give them exposure to STEM and Robotics Under ATAL innovation Mission of Government to the Atal Community Day organized by Manav Rachna International School, Charmwood, Faridabad. Here they were shown how to build basic circuits, Traffic light working, 3 -D printing and laser cutting."
+        "name": "Toys, clothes and other pre-loved possession drives",
+        "desc": "Toys, clothes and other pre-loved possession drives are conducted and the collection is often handed over to needy or NGOs for ensuring the things reach where they are needed most like Goonj Foundation and the foundations with which we are associated."
       },
       {
         "name": "Educational Activities, Spreading Fun and Food Distribution to Children with Special Needs of Prabhat Foundation",
         "date": "September 24, 2022"
+      }
+    ]
+  },
+  {
+    "name": "Boiling Alive",
+    "route": "boiling-alive",
+    "shortDescription": "Working on the management of climatic changes and encouraging people to reduce and reverse carbon footprints",
+    "body": [
+      {
+        "text": "Our initiative boiling alive strives to work toward pressing environmental issues. We all know that the growing climate change is drastically going to affect our future generations unless we do something about it. Something which is consistent and makes a greater collaborative and thought-provoking impact on the environmental issues"
+      }
+    ],
+    "thumbnail": "boiling-alive.jpg",
+    "imageCount": "28",
+    "quote": {
+      "quote": "We are the first generation to feel the effect of climate change and the last generation who can do something about it.",
+      "author": "Barack Obama, Former President of the USA"
+    },
+    "timeline": [
+      {
+        "name": "Go Green - Tree plantation drives and herbal gardens",
+        "desc": "The main problem identified with tree plantation drives is that there is no/less care taken later due to which these saplings die. We conduct plantation drives in areas where we are sure that the saplings will be taken care of. We have also helped to build Herbal gardens in societies such as Charmwood and numerous neighboring localities with the RWA, GK-2 etc. K.L.Mehta School."
+      },
+      {
+        "name": "Save Sparrow Project",
+        "desc": "This is a volunteering initiative undertaken with Ecoroots Foundation under the able guidance of Shri Rakesh Khatri ji – honored as Nest Man of India. This project is very close to our heart and we wholeheartedly volunteer to help conduct nest making workshops , fund raising campaigns by pitching to corporates to raise awareness and create habitat for these tiny lovable creatures."
+      },
+      {
+        "name": "Waste to wealth Project",
+	  "desc": "This is another project where we volunteer with Ecoroots foundation. Water Hyacinth is a big problem for a lot of water bodies as its growth leads to the complete destruction of the water body. Reason? It completely cuts off of the sunlight penetrating into the water.\nThe simple solution to this problem is that the water hyacinth should be removed so that the water body can be revived and the ecosystem would come back to life. This project is for revival of 7 such water bodies around Gautambuddha Nagar of Uttar Pradesh along with providing income generation activities to the 140 women beneficiaries.  We Volunteer at this level to provide with training in removal of water hyacinth and then to make marketable useful products out of the extracted stems of water hyacinth.\nThe project would solve two problems, one it would revive the water bodies and secondly it would provide sustainable income generation to the women beneficiaries in the villages."
+      },
+      {
+          "name": "Plastic Collection Drives",
+        "desc": "Plastic collection drives are often conducted in societies, schools and neighbourhoods of our volunteers . The plastic so collected is given for responsible recycling to various companies/ Ngos working for the cause who recycle to make bags, wallets, bricks, study tables etc.like Green Ghar initiative by Dr.O.P.Bhalla Foundation where study tables are made out of plastic, Ekoora where bags are made out of used plastic after recycling."
+      },
+      {
+        "name": "E-waste collection Drives",
+	  "desc": "E-waste poses a significant environmental and health challenge due to its toxic components and improper disposal. Proper collection and management of e-waste are crucial to mitigate these risks and promote sustainable practices. Electronics contain hazardous materials such as lead, mercury, and cadmium. Improper disposal leads to soil and water contamination, harming ecosystems and human health. They also contain valuable materials like gold, silver, and rare metals. Proper recycling reduces the need for mining raw materials, conserving natural resources. Over the past two years, we have successfully conducted a series of e-waste collection drives to raise awareness about the importance of responsible e-waste disposal and to provide convenient avenues for the public to discard their electronic devices.\n\n- Collection bins are placed at designated locations for easy drop-off of old electronics.\n- Awareness campaigns, workshops, and educational materials were employed to inform participants about the hazards of improper disposal and preventing it from ending up in landfills or being improperly handled.\n- Valuable materials were recovered through proper recycling methods, reducing the need for new resource extraction."
+      }
+    ]
+  },
+  {
+    "name": "Praise The Strays",
+    "route": "praise-the-strays",
+    "shortDescription": "Working on animal rescue, spray neutering them, so they live healthy and longer, helping to get adopted in caring homes and shelters.",
+    "body": [
+      {
+        "text": "Animal welfare is affected by the surroundings, and the relationships human beings have with animals, and it is the responsibility of the human race to peacefully coexist with animals and treat them humanely and with respect. Across the globe, the animal community has faced severe hostility and has been subjected to mistreatment, torture, and abandonment by humans. Praise for Strays is an initiative started with a focused intention of animal welfare - tend to the ill and injured animals. Our volunteers have started feeding regularly to  many stray cats and dogs around their vicinity. We also conduct drives for neutering, vaccinating the animals and conducting adoption drives."
+      }
+    ],
+    "thumbnail": "praise-the-strays.jpg",
+    "imageCount": "10",
+    "quote": {
+      "quote": "The greatness of a nation can be judged by the way its animals are treated.",
+      "author": "Mahatma Gandhi"
+    },
+    "timeline": [
+      {
+        "name": "Collaboration with Paw Savior Foundation",
+        "date": "",
+        "desc": "Reinvigorate Foundation has collaborated with Paw Savior Foundation to help to rescue injured cats, get them treated by veterinarians, and help them get adopted into a loving family. Fund raising was conducted to build a cat shelter for cats with special needs or the one’s who get permanent injuries by pitching for donations to various corporates. Reinvigorate Volunteers love to spend time with these fur- babies !"
       }
     ]
   }
