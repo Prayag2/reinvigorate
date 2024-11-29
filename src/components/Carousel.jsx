@@ -50,22 +50,26 @@ function Carousel({ images, className }) {
         ))}
       </div>
 
-      <button
-        onClick={nextImage}
-        className="p-2 rounded bg-secondary absolute right-5 top-1/2 translate-y-[-50%]"
-      >
-        <img className="w-6 h-6" alt="Next" src="/images/other/arrow.svg" />
-      </button>
-      <button
-        onClick={prevImage}
-        className="p-2 rounded bg-secondary absolute left-5 top-1/2 translate-y-[-50%]"
-      >
-        <img
-          className="w-6 h-6 rotate-180"
-          alt="Next"
-          src="/images/other/arrow.svg"
-        />
-      </button>
+      {images.length > 1 ? (
+        <>
+          <button
+            onClick={nextImage}
+            className="p-2 rounded bg-secondary absolute right-5 top-1/2 translate-y-[-50%]"
+          >
+            <img className="w-6 h-6" alt="Next" src="/images/other/arrow.svg" />
+          </button>
+          <button
+            onClick={prevImage}
+            className="p-2 rounded bg-secondary absolute left-5 top-1/2 translate-y-[-50%]"
+          >
+            <img
+              className="w-6 h-6 rotate-180"
+              alt="Next"
+              src="/images/other/arrow.svg"
+            />
+          </button>
+        </>
+      ) : null}
     </div>
   );
 }

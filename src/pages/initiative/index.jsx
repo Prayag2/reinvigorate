@@ -52,11 +52,11 @@ function Initiative({ initiative }) {
                 <span className="absolute rounded-full border-4 border-background top-0 left-[-3.5rem] w-7 aspect-square bg-primary"></span>
                 {event.name}
               </h2>
-              {event.date ? (
+              {/* {event.date ? (
                 <h3 className="mb-2 font-display opacity-60 text-lg">
                   {event.date}
                 </h3>
-              ) : null}
+              ) : null} */}
               {event.desc
                 ? event.desc
                     .split("\n")

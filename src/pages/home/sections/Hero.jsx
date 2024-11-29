@@ -27,7 +27,7 @@ function Hero() {
         </h2>
         <div className="flex gap-2 flex-wrap justify-center items-center md:justify-start">
           <Button to="/volunteer" text="Volunteer" />
-          <Button text="Donate Now" secondary />
+          <Button text="Donate Now" secondary to="/donate" />
         </div>
       </Wrapper>
     </main>
